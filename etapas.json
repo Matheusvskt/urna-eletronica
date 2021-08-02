@@ -1,0 +1,47 @@
+{
+    "0": {
+        "titulo": "Presidente",
+        "numeros": 2,
+        "candidatos": {
+            "17": {
+                "nome": "Jair Messias Bolsonaro",
+                "partido": "PSOL",
+                "foto": "bozo.jpg",
+                "vice": {
+                    "nome": "Hamilton Mourão",
+                    "partido": "PSOL",
+                    "foto": "moura.jpg"
+                }
+            },
+            "13": {
+                "nome": "Lula",
+                "partido": "PT",
+                "foto": "lula.jpg",
+                "vice": {
+                    "nome": "Fernando Haddad",
+                    "partido": "PT",
+                    "foto": "haddad.jpg"
+                }
+            }
+         
+        
+        }
+    },
+    "1": {
+        "titulo": "Governador",
+        "numeros": 2,
+        "candidatos": {
+            "30": {
+                "nome": "Romeu Zema Neto",
+                "partido": "NOVO",
+                "foto": "zema.png"
+            },
+            "45": {
+                "nome": "João Doria",
+                "partido": "PSDB",
+                "foto": "doria.jpg"
+            }
+          
+        }
+    }
+}
